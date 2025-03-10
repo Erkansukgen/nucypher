@@ -42,7 +42,7 @@ importlib-metadata==6.6.0 ; python_version < '3.10'
 importlib-resources==5.12.0 ; python_version < '3.9'
 incremental==22.10.0
 itsdangerous==2.1.2 ; python_version >= '3.7'
-jinja2==3.0.3
+jinja2==3.1.6
 jsonschema==4.18.0a9 ; python_version >= '3.8'
 jsonschema-specifications==2023.5.2 ; python_version >= '3.8'
 lru-dict==1.2.0
