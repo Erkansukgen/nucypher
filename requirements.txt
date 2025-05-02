@@ -81,7 +81,7 @@ rlp==3.0.0
 rpds-py==0.7.1 ; python_version >= '3.8'
 semantic-version==2.10.0 ; python_version >= '2.7'
 service-identity==21.1.0
-setuptools==67.8.0 ; python_version >= '3.7'
+setuptools==78.1.1 ; python_version >= '3.7'
 six==1.16.0 ; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'
 snaptime==0.2.4
 sortedcontainers==2.4.0
